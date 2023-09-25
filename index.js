@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
   .procodeprogrammers_custom_flash_message_v1 {
     min-width: 150px;
     max-width: 300px;
-    min-height: 60px;
+    min-height: 40px;
     padding: 20px;
     display: flex;
     justify-content: center;
