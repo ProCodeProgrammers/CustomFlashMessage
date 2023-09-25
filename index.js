@@ -23,6 +23,7 @@ document.addEventListener("DOMContentLoaded", function () {
     color: white;
     text-align: center;
     font-size: 14px;
+    font-weight: bold;
     cursor: pointer;
     animation: procodeprogrammers_zoom_in_effect_v1 2s;
     margin-bottom: 10px;
